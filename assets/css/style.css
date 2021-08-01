@@ -31,12 +31,9 @@ html {
     justify-content: center;
     align-items: center;
     transition: 250ms all;
-    -webkit-backdrop-filter: hue-rotate(120deg) blur(0.1rem);
-    backdrop-filter: hue-rotate(120deg) blur(0.1rem);
+    -webkit-backdrop-filter: hue-rotate(120deg) blur(.1rem);
+    backdrop-filter: hue-rotate(120deg) blur(.1rem);
 }
-
-
-/* Grayscale  invert opacity  sepia  saturate  %%%%  */
 
 .menu.aktiv {
     top: 0;
@@ -57,7 +54,7 @@ html {
     margin: 0 0 3rem 0;
     padding: 0;
     width: 100%;
-    font-size: 5rem;
+    font-size: 1rem;
     color: #242400;
     font-weight: bold;
     cursor: pointer;
