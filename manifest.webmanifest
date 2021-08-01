@@ -1,0 +1,11 @@
+{
+    "theme_color": "#f69435",
+    "background_color": "#f69435",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Backdrop By Ali Chaghou",
+    "short_name": "Backdrop Blur",
+    "description": "Ein Bild aus dem Sch\u00f6nen Marokko, auf onclick wird der Effekt ver\u00e4ndert.",
+    "icons": []
+}
